@@ -1,9 +1,9 @@
 // Copyright 2025 UNN-CS
 
-#include "alg.h"
 #include <gtest/gtest.h>
 #include <cstdint>
 #include <stdexcept>
+#include "alg.h"
 
 
 TEST(st1, sumPrime1) {
